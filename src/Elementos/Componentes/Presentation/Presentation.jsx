@@ -14,9 +14,7 @@ function Presentation() {
                 para poder opera como Desenvolvedor Full-Stack.</p>
 
 
-            <Button className="btn"
-                text="Saber mais"
-                link="" />
+            
         </div>
     );
 };
