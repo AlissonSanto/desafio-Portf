@@ -1,0 +1,12 @@
+#root {
+    background-color: #0F1624;
+    text-align: center;
+    height: 100%;
+  }
+  .App {
+    display: grid;
+  
+    h1{
+      padding: 20%;
+    }
+  }
