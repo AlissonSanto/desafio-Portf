@@ -1,0 +1,44 @@
+
+div{
+    width: 100%;
+    display: flex;
+    background-color: #0F1624;
+    
+
+    a{
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0% 6% 0% 15%;
+        gap: 1%;
+        color: white;
+        background-color: #0F1624;
+        font-size: 1.7vh;
+        
+        button{
+            padding: 0% 7%;
+            border: 1px solid transparent;
+            white-space: nowrap;
+            color: white;
+            height: 80%;
+            background-color: #0F1624;
+            
+            
+        }
+    }
+    nav{
+        width: 26%;
+        display: flex;
+        justify-content: flex-end;
+        padding: 2% 5% 2% 0%;
+        margin: 5px;
+        a{
+            gap: 30%;
+
+            img{
+                width: 50%;
+            }
+        }
+    }
+}
