@@ -42,6 +42,11 @@ div{
         background-color: #0F1624;
         font-size: 2vh;
         cursor: pointer;
-        transition: border-color 0.5s;
+        transition: border-color 0.7s;
         
 }
+
+.btnHeader:hover{
+    border: 1px solid #0affffe1;
+}
+
