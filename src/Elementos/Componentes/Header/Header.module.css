@@ -15,20 +15,6 @@ div{
         color: white;
         background-color: #0F1624;
         font-size: 1.7vh;
-        
-        button{
-            width: 30%;
-            height: 3em;
-            border: 1px solid transparent;
-            border-radius: 20px;
-            white-space: nowrap;
-            color: white;
-            background-color: #0F1624;
-            font-size: 2vh;
-            cursor: pointer;
-            transition: border-color 0.5s;
-            }
-            
             
         }
     }
@@ -46,3 +32,16 @@ div{
             }
         }
     }
+.btnHeader{
+        width: 30%;
+        height: 3em;
+        border: 1px solid transparent;
+        border-radius: 20px;
+        white-space: nowrap;
+        color: white;
+        background-color: #0F1624;
+        font-size: 2vh;
+        cursor: pointer;
+        transition: border-color 0.5s;
+        
+}

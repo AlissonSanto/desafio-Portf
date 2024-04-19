@@ -6,9 +6,9 @@ function Header(){
     return(
         <div>
             <a>
-                <button>Projetos</button>
-                <button>Tecnologias</button>
-                <button>Sobre mim</button>
+                <button className={styles.btnHeader}>Projetos</button>
+                <button className={styles.btnHeader}>Tecnologias</button>
+                <button className={styles.btnHeader}>Sobre mim</button>
             </a>
             <nav className="nav_img">
             <a href="">
