@@ -18,19 +18,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  cursor: pointer;
-  transition: border-color 0.5s;
-}
 button:hover {
-  border-color: #646cff;
+  border-color: #15f1f1cc;
 }
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
+
