@@ -2,6 +2,7 @@ import Presentation from './Elementos/Componentes/Presentation/Presentation';
 import Header from './Elementos/Componentes/Header/Header';
 import Projects from './Elementos/Componentes/Projects/Projects';
 import TimeLine from './Elementos/Componentes/TimeLine/TimeLine';
+import Footer from './Elementos/Componentes/Footer/Footer';
 import './App.css'
 
 function App() {
@@ -34,6 +35,10 @@ function App() {
                         dou inicio no curso Ciencias da Computação 
                         na Faculdade Estacio de Sá."
                   />
+      
+      <Footer/>
+
+
     </div>
   )
 }
