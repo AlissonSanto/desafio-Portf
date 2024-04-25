@@ -6,3 +6,7 @@
   .App {
     display: grid;
   }
+
+  h1{
+    padding-bottom: 10%;
+  }
