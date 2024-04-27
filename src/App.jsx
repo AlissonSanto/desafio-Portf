@@ -12,7 +12,7 @@ function App() {
       <Header/>
      <Presentation/>
      <Projects/>
-     <h1>Sobre Mim</h1> 
+     <h1 id='me'>Sobre Mim</h1> 
         
         <TimeLine year="2021"
                   text="Me Formo no ensino medio pelo colegio

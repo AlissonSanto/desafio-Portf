@@ -43,6 +43,11 @@ div{
         font-size: 2vh;
         cursor: pointer;
         transition: border-color 0.7s;
+
+        a{
+            text-decoration: none;
+            color: white;
+        }
         
 }
 

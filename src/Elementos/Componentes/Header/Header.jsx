@@ -3,12 +3,21 @@ import github from"../../image/github.svg"
 import linkdin from"../../image/linkdin.svg"
 
 function Header(){
+
+        
     return(
         <div>
             <a>
-                <button className={styles.btnHeader}>Projetos</button>
-                <button className={styles.btnHeader}>Tecnologias</button>
-                <button className={styles.btnHeader}>Sobre mim</button>
+                <button className={styles.btnHeader}>
+                    <a href="../Projects/Projects#projects">Projetos</a>
+                    </button>
+                <button className={styles.btnHeader}>
+                <a href="../../../App#me">Sobre Mim</a>
+
+                </button>
+                <button className={styles.btnHeader}>
+                <a href="../Footer/Footer#footer">Contato</a>
+                    </button>
             </a>
             <nav className="nav_img">
             <a href="">
